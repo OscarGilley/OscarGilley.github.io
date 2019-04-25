@@ -115,10 +115,13 @@ body {
 }
 
 .guide{
-	font-size: 15px;
+	font-size: 18px;
 }
 
-
+.userguide a{
+	width:10%;
+	margin:0;
+}
 
 
 .downloads{
