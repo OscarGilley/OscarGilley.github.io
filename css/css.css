@@ -73,8 +73,8 @@ body {
 }
 
 .features{
-	background-color: #DCDCDC;
-	color: #FFFFFF;
+	background-color: #A9A9A9;
+	color: #004B83;
 	padding-bottom: 20px;
 }
 
@@ -195,14 +195,15 @@ body {
 
 .banner-text h1{
 	font-size: 40px;
-	color: #F90E0E;
-	
+	color: white;
+	text-shadow: 2px 2px #000000;	
 	
 }
 
 .banner-text p{
 	font-size: 30px;
-	color: #F90E0E;
+	color: white;
+	text-shadow: 2px 2px #000000;	
 	
 }
 
