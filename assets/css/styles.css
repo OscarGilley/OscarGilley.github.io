@@ -648,8 +648,8 @@ a.dotted-link:hover {
 }
 
 .dark-mode-switch .form-check-input:checked {
-  background-color: #54ba4e;
-  border-color: #54ba4e;
+  background-color: #480177;
+  border-color: #480177;
 }
 
 .dark-mode-switch .form-check-input:focus {
@@ -664,7 +664,7 @@ body[data-theme="dark"] {
 }
 
 body[data-theme="dark"] a:hover {
-  color: #53c47d;
+  color: #6f13bb;
 }
 
 body[data-theme="dark"] a.btn:hover {
@@ -672,7 +672,7 @@ body[data-theme="dark"] a.btn:hover {
 }
 
 body[data-theme="dark"] .dark-mode-switch .form-check-input:focus {
-  border-color: #54ba4e;
+  border-color: #480177;
 }
 
 body[data-theme="dark"] .header {
