@@ -696,7 +696,7 @@ body[data-theme="dark"] .dark-mode-switch .form-check-input:focus {
 body[data-theme="dark"] .header {
   background: #000b16;
   color: rgba(255, 255, 255, 0.9);
-  border-top-color: #1e2124;
+  border-top-color: #000b16;
 }
 
 body[data-theme="dark"] .header .profile-content .name {
@@ -717,7 +717,7 @@ body[data-theme="dark"] .header .profile-content .social a:hover {
 }
 
 body[data-theme="dark"] .section .section-inner {
-  background: #1e2124;
+  background: #000b16;
   color: rgba(255, 255, 255, 0.7);
 }
 
